@@ -4,13 +4,13 @@ import { proto } from '@whiskeysockets/baileys';
 import PhoneNumber from 'awesome-phonenumber';
 
 const handler = async (m, { conn }) => {
-  const name = '🌱 𝙎𝙃𝘼𝘿𝙊𝙒 - 𝘾𝙧𝙚𝙖𝙙𝙤𝙧 ⚡';
-  const numCreador = '51919199620';
-  const empresa = 'Rin Itoshi Bot Inc.';
-  const about = '🧪 Desarrollador de Rin itoshi Ultra - MD';
-  const correo = 'blackoficial2025@gmail.com';
-  const web = 'https://gituhb.com/Yuji-XDev';
-  const direccion = 'Tokyo, Japón 🇯🇵';
+  const name = '▂▃▄▅▆▇█▓▒░Yo Soy YO░▒▓█▇▆▅▄▃▂';
+  const numCreador = '573133374132';
+  const empresa = 'Say Team.';
+  const about = 'ƊЄƧƛƦƦƠԼԼƛƊƠƦ ƊЄ ƓƛƜƦ ƓƲƦƛ ƲԼƬƦƛ';
+  const correo = '';
+  const web = '';
+  const direccion = Colombia, bogota';
   const fotoPerfil = 'https://files.catbox.moe/fft2hr.jpg';
 
   const vcard = `
@@ -43,8 +43,8 @@ END:VCARD`.trim();
     contextInfo: {
     mentionedJid: [m.sender],
       externalAdReply: {
-        title: '🧪 Contacto del Creador oniichan 💌',
-        body: 'Toca aquí para guardar el contacto o hablar con él',
+        title: '︻╦̵̵͇̿̿̿̿ Contacto del Creador oniichan╤───',
+        body: 'ˋˏTˎˊˋˏoˎˊˋˏcˎˊˋˏaˎˊ ˋˏaˎˊˋˏqˎˊˋˏuˎˊˋˏíˎˊ ˋˏpˎˊˋˏaˎˊˋˏrˎˊˋˏaˎˊ ˋˏgˎˊˋˏuˎˊˋˏaˎˊˋˏrˎˊˋˏdˎˊˋˏaˎˊˋˏrˎˊ ˋˏeˎˊˋˏlˎˊ ˋˏcˎˊˋˏoˎˊˋˏnˎˊˋˏtˎˊˋˏaˎˊˋˏcˎˊˋˏtˎˊˋˏoˎˊ ˋˏoˎˊ ˋˏhˎˊˋˏaˎˊˋˏbˎˊˋˏlˎˊˋˏaˎˊˋˏrˎˊ ˋˏcˎˊˋˏoˎˊˋˏnˎˊ ˋˏéˎˊˋˏlˎˊ',
         mediaType: 1,
         thumbnailUrl: fotoPerfil,
         renderLargerThumbnail: true,
