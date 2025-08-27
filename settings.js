@@ -69,21 +69,21 @@ global.logo = 'https://files.catbox.moe/fft2hr.jpg'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.gp1 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.comunidad1 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.channel = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.md = 'https://github.com/Yuji-XDev/Rin-Itoshi-Bot'
-global.correo = 'blackoficial2025@gmail.com'
+global.gp1 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.comunidad1 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.channel = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.md = ''
+global.correo = ''
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363401008003732@newsletter',
-ch2: "120363401008003732@newsletter",
-ch3: "120363401008003732@newsletter"
+ch1: '120363399729727124@newsletter',
+ch2: "120363399729727124@newsletter",
+ch3: "120363399729727124@newsletter"
 }
 global.multiplier = 60
 
