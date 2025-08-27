@@ -23,67 +23,67 @@ global.owner = [
   
 // <-- Número @lid -->
 
-  ['80754461647013', 'Propietario', true],
-  ['193196806148194', 'shadow', true],
-  ['119069730668723', 'feli', true ],
-  ['102680420733070', ':v', true ]
+  ['176742836768966', 'Propietario', true],
+  ['176742836768966', 'shadow', true],
+  ['176742836768966', 'feli', true ],
+  ['176742836768966', ':v', true ]
 ];  
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.mods = ['51919199620', '51934053286']
-global.suittag = ['51919199620'] 
-global.prems = ['51919199620', '51934053286']
+global.mods = ['', '']
+global.suittag = [''] 
+global.prems = ['', '']
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '✦⃟⚡ Rin•Itoshi•Bot•MD ⚡⃟✦'
-global.namebot = '⚽⸸ Rin•Itoshi•MD ⸸⚽'
+global.nameqr = 'yo soy yo'
+global.namebot = 'yo soy yo'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.shadowJadibts = true
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = '🏆 ⌬ 𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕 𝑴𝑫 ⌬ ⚽'
-global.botname = '☘️ 𝑹𝑰𝑵 𝑰𝑻𝑶𝑺𝑯𝑰 ⚽'
-global.wm = '◈𝐑𝐢𝐧 𝐈𝐭𝐨𝐬𝐡𝐢 𝐁𝐨𝐭◈'
-global.author = '⩇⃟🔋 𝑴𝒂𝒅𝒆 𝒃𝒚 𝑺𝒉𝒂𝒅𝒐𝒘𝒄𝒐𝒓𝒆 ⩇⃟⚡'
-global.dev = '☘️ ミ💨 》Tʜᴇ Sʜᴀᴅᴏᴡ`ᴄᴏʀᴇ《 💥ミ 🌀'
-global.bot = '𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕'
-global.club = '🌱 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 Sʜᴀᴅᴏᴡ•Core 𝖢𝗅𝗎𝖻 ⚡'
-global.textbot = '𝚁𝙸𝙽 𝙸𝚃𝙾𝚂𝙷𝙸 𝙱𝙾𝚃 ✦ 𝕊ℍ𝔸𝔻𝕆𝕎•ℂ𝕆ℝ𝔼'
-global.etiqueta = '@sʜᴀᴅᴏᴡ°ᴄᴏʀᴇ'
+global.packname = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.botname = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.wm = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.author = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.dev = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.bot = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.club = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.textbot = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
+global.etiqueta = '𝕐𝕠 𝕊𝕠𝕪 𝕐𝕆'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.moneda = 'Motoko Points'
-global.welcom1 = '💤⚡ Bienvenido/a al campo de juego ⚡🍂\n❍ Edita con el comando *setwelcome*'
-global.welcom2 = '🔥⚽ El jugador ha salido del partido ⚽🔥\n❍ Edita con el comando *setbye*'
+global.moneda = 'puntos'
+global.welcom1 = '💤⚡ 𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔/𝖆 𝖆𝖑 𝖌𝖗𝖚𝖕𝖔\n❍ 𝔈𝔡𝔦𝔱𝔞 𝔠𝔬𝔫 𝔢𝔩 𝔠𝔬𝔪𝔞𝔫𝔡𝔬 *𝔰𝔢𝔱𝔴𝔢𝔩𝔠𝔬𝔪𝔢*'
+global.welcom2 = '𝓔𝓵 𝓾𝓼𝓾𝓪𝓻𝓲𝓸 𝓪 𝓼𝓪𝓵𝓲𝓭𝓸 𝓭𝒆𝓵 𝓰𝓻𝓾𝓹𝓸\n❍ 𝔈𝔡𝔦𝔱𝔞 𝔠𝔬𝔫 𝔢𝔩 𝔠𝔬𝔪𝔞𝔫𝔡𝔬 *𝔰𝔢𝔱𝔟𝔶𝔢*'
 global.banner = 'https://files.catbox.moe/fft2hr.jpg'
 global.avatar = 'https://files.catbox.moe/js2plu.jpg'
 global.logo = 'https://files.catbox.moe/fft2hr.jpg'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.gp1 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.comunidad1 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.channel = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-global.md = 'https://github.com/Yuji-XDev/Rin-Itoshi-Bot'
-global.correo = 'blackoficial2025@gmail.com'
+global.gp1 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.comunidad1 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.channel = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+global.md = ''
+global.correo = ''
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363401008003732@newsletter',
-ch2: "120363401008003732@newsletter",
-ch3: "120363401008003732@newsletter"
+ch1: '120363399729727124@newsletter',
+ch2: "120363399729727124@newsletter",
+ch3: "120363399729727124@newsletter"
 }
 global.multiplier = 60
 
