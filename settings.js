@@ -15,15 +15,15 @@ global.botNumber = ''
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['573133374132', '🜲 Propietario 🜲', true],
+  ['51919199620', '🜲 Propietario 🜲', true],
   ['51969214380', 'shadow', true],
   ['59898719147', 'feli', true],
   ['51934053286', ':v', true ],
-  ['51946200884', ':v xd', true ],
+  ['573133374143', ':v xd', true ],
   
 // <-- Número @lid -->
 
-  ['176742836768966', 'Propietario', true],
+  ['80754461647013', 'Propietario', true],
   ['193196806148194', 'shadow', true],
   ['119069730668723', 'feli', true ],
   ['102680420733070', ':v', true ]
