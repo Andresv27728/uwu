@@ -34,7 +34,7 @@ global.namechannel2 = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤𝓵𝓽𝓻𝓪'
 global.namegrupo = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤𝓵𝓽𝓻𝓪'
 global.namecomu = '𝕾𝕬𝖄 𝕿𝕰𝕬𝕸 '
 global.listo = '✦❀ *Aquí tienes, capitán ฅ^•ﻌ•^ฅ* ❀✦'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/ove7tq.jpg')
 
 global.canalIdM = ["120363399729727124@newsletter", "120363399729727124@newsletter", "120363399729727124@newsletter"]
 global.canalNombreM = ["𝔊𝔞𝔴𝔯 𝔊𝔲𝔯𝔞 𝔘𝔩𝔱𝔯𝔞", "𝔊𝔞𝔴𝔯 𝔊𝔲𝔯𝔞 𝔘𝔩𝔱𝔯𝔞"]
