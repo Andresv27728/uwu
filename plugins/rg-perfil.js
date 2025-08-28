@@ -29,11 +29,11 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 
     let profileText = `✦ ━━━━━ • 𓇼 • ━━━━━ ✦
       🔮 𝐏𝐄𝐑𝐅𝐈𝐋 𝐂𝐎𝐒𝐌𝐈𝐂𝐎 🔮
-   ✧ ˚₊ ⊹ Rin Itoshi Bot ⊹ ₊˚ ✧
+   ✧ ˚₊ ⊹ Gawr Gura Ultra ⊹ ₊˚ ✧
 ✦ ━━━━━ • 𓇼 • ━━━━━ ✦
 
-☄️︙*🪪 Identidad Estelar:* @${userId.split('@')[0]}
-☄️︙*🌙 Nombre Arcano:* *${name}*
+☄️︙*🪪 Identidad:* @${userId.split('@')[0]}
+☄️︙*🌙 Nombre:* *${name}*
 ☄️︙*🌀 Esencia Vital:* _${description}_
 
 ┏━━━✦ °• ⚝ •° ✦━━━┓
@@ -41,10 +41,10 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
         𝐄𝐒𝐏𝐈𝐑𝐈𝐓𝐔𝐀𝐋
 ┗━━━✦ °• ⚝ •° ✦━━━┛
 
-➺ 🎂 *Edad Estelar:* ${user.age || 'Incierta'}
+➺ 🎂 *Edad:* ${user.age || 'Incierta'}
 ➺ 📆 *Ciclo Cósmico:* ${cumpleanos}
 ➺ ⚧️ *Polaridad:* ${genero}
-➺ 💖 *Vínculo Álmico:* ${pareja}
+➺ 💖 *casado:* ${pareja}
 
 ┏━━━✦ °• ⚝ •° ✦━━━┓
       ✦ 𝐑𝐄𝐂𝐔𝐑𝐒𝐎𝐒 ✦
