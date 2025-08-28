@@ -30,7 +30,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
       image: { url: icono },
       caption: texto,
       mentions: [m.sender],
-      footer: '˜”*°•.˜”*°• RIN ITOSHI BOT •°*”˜.•°*”˜',
+      footer: '˜”*°•.˜”*°• Gawr Gura Ultra •°*”˜.•°*”˜',
       buttons: botones,
       headerType: 4,
       contextInfo: {
@@ -64,7 +64,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
       image: { url: icono },
       caption: mensaje,
       mentions: [m.sender],
-      footer: '˜”*°•.˜”*°• RIN ITOSHI BOT •°*”˜.•°*”˜',
+      footer: '˜”*°•.˜”*°• Gawr Gura Ultra •°*”˜.•°*”˜',
       buttons: botones,
       headerType: 4,
       contextInfo: {
@@ -121,7 +121,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 └──────────────────⊷
 
 ✨ ¡Felicidades ${name}!  
-Ahora formas parte de la comunidad oficial de *Rin Itoshi Bot* ⚡`.trim();
+Ahora formas parte de la comunidad oficial de *Gawr Gura Ultra* ⚡`.trim();
 
   await m.react?.('📩')
 
@@ -140,7 +140,7 @@ Ahora formas parte de la comunidad oficial de *Rin Itoshi Bot* ⚡`.trim();
         },
         externalAdReply: {
           title: '✦͢🌹⌗ 𝐔𝐒𝐔𝐀𝐑𝐈𝐎 𝐕𝐄𝐑𝐈𝐅𝐈𝐂𝐀𝐃𝐎 💎✨',
-          body: '꒰🍃꒱ ᴛᴜ ᴄᴜᴇɴᴛᴀ ʜᴀ ꜱɪᴅᴏ ᴀᴄᴛɪᴠᴀᴅᴀ ᴄᴏɴ éꜱᴇxɪᴛᴏ\n☯︎ ʙʏ: 𝑺𝒉𝒂𝑫𝒐𝒘•𝑪𝒐𝒓𝒆',
+          body: '꒰🍃꒱ ᴛᴜ ᴄᴜᴇɴᴛᴀ ʜᴀ ꜱɪᴅᴏ ᴀᴄᴛɪᴠᴀᴅᴀ ᴄᴏɴ éꜱᴇxɪᴛᴏ\n☯︎ by Yo Soy Yo',
           mediaType: 1,
           thumbnailUrl: icono,
           mediaUrl: redes,
