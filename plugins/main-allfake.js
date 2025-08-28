@@ -27,17 +27,17 @@ return res.data
 console.log(`Error : ${e}`)
 }}
   
-global.creador = 'wa.me/51919199620'
+global.creador = 'wa.me/57313374132'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.namechannel = '▐▐ ✦ 𝗥𝗶𝗻 𝗜𝘁𝗼𝘀𝗵𝗶 - 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ✦ ▐▐'
-global.namechannel2 = '▐▐ ✦ 𝗥𝗶𝗻 𝗜𝘁𝗼𝘀𝗵𝗶 - 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ✦ ▐▐'
-global.namegrupo = '▐▐ ⚡ 𝗥𝗶𝗻 𝗜𝘁𝗼𝘀𝗵𝗶 • 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ⚡ ▐▐'
-global.namecomu = '▐▐ ⚡ 𝗥𝗶𝗻-𝗜𝘁𝗼𝘀𝗵𝗶-𝗕𝗼𝘁-𝗠𝗗 • 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 ⚡ ▐▐'
+global.namechannel = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤𝓵𝓽𝓻𝓪'
+global.namechannel2 = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤𝓵𝓽𝓻𝓪'
+global.namegrupo = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤𝓵𝓽𝓻𝓪'
+global.namecomu = '𝕾𝕬𝖄 𝕿𝕰𝕬𝕸 '
 global.listo = '✦❀ *Aquí tienes, capitán ฅ^•ﻌ•^ฅ* ❀✦'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
-global.canalIdM = ["120363401008003732@newsletter", "120363401008003732@newsletter", "120363401008003732@newsletter"]
-global.canalNombreM = ["★彡〔 Rin Itoshi Official Channel 〕彡★", "𓆩⿻⃟🖤 Rin Itoshi 🖤⿻⃟𓆪", "⚽𐚁 ֹ ִ Rin Itoshi - Official ୧ ֹ ִ⚽ᩚ꤬ᰍ"]
+global.canalIdM = ["120363399729727124@newsletter", "120363399729727124@newsletter", "120363399729727124@newsletter"]
+global.canalNombreM = ["𝔊𝔞𝔴𝔯 𝔊𝔲𝔯𝔞 𝔘𝔩𝔱𝔯𝔞", "𝔊𝔞𝔴𝔯 𝔊𝔲𝔯𝔞 𝔘𝔩𝔱𝔯𝔞"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -61,10 +61,10 @@ global.emoji5 = '(づ｡◕‿‿◕｡)づ'
 global.emoji6 = '★~(◠‿◕✿)'
 global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5, emoji6].getRandom()
 
-global.wait = '⚽️ 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙩𝙚𝙣 𝙥𝙖𝙘𝙞𝙚𝙣𝙘𝙞𝙖...';
-global.waitt = '⚽️ 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙩𝙚𝙣 𝙥𝙖𝙘𝙞𝙚𝙣𝙘𝙞𝙖...';
-global.waittt = '⚽️ 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙩𝙚𝙣 𝙥𝙖𝙘𝙞𝙚𝙣𝙘𝙞𝙖...';
-global.waitttt = '⚽️ 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙩𝙚𝙣 𝙥𝙖𝙘𝙞𝙚𝙣𝙘𝙞𝙖...';
+global.wait = '𝕰𝖓𝖛𝖎𝖆𝖓𝖉𝖔 𝕿𝖊𝖓 𝕻𝖆𝖈𝖎𝖊𝖓𝖈𝖎𝖆...';
+global.waitt = '𝕰𝖓𝖛𝖎𝖆𝖓𝖉𝖔 𝕿𝖊𝖓 𝕻𝖆𝖈𝖎𝖊𝖓𝖈𝖎𝖆...';
+global.waittt = '𝕰𝖓𝖛𝖎𝖆𝖓𝖉𝖔 𝕿𝖊𝖓 𝕻𝖆𝖈𝖎𝖊𝖓𝖈𝖎𝖆...';
+global.waitttt = '𝕰𝖓𝖛𝖎𝖆𝖓𝖉𝖔 𝕿𝖊𝖓 𝕻𝖆𝖈𝖎𝖊𝖓𝖈𝖎𝖆...';
 
 
 global.hotw = '*🐭 El contenido `NSFW` está desactivado en este grupo.*\n> Un administrador puede activarlo con el comando » *`#nsfw on`*';
@@ -74,12 +74,12 @@ global.edadaleatoria = ['10', '28', '20', '40', '18', '21', '15', '11', '9', '17
 global.user2 = m.pushName || 'Anónimo';
 global.verifyaleatorio = ['registrar', 'reg', 'verificar', 'verify', 'register'].getRandom();
 
-var canal = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'  
-var comunidad = 'https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U'
-var git = 'https://github.com/Yuji-XDev'
-var github = 'https://github.com/Yuji-XDev/Rin-Itoshi-Bot'
-var tiktok = 'https://tiktok.com/@the.black.xz'
-let correo = 'blackoficial2025@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'  
+var comunidad = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
+var git = 'https://github.com/'
+var github = 'https://github.com/'
+var tiktok = 'https://tiktok.com/'
+let correo = ''
 global.redes = [canal, comunidad, git, github, tiktok, correo].getRandom()
 
 let category = "imagen"
