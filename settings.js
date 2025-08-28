@@ -49,11 +49,11 @@ global.shadowJadibts = true
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 global.packname = '🏆 ⌬ 𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕 𝑴𝑫 ⌬ ⚽'
-global.botname = '☘️ 𝑹𝑰𝑵 𝑰𝑻𝑶𝑺𝑯𝑰 ⚽'
+global.botname = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤ℒ𝓣ℛ𝓐'
 global.wm = '◈𝐑𝐢𝐧 𝐈𝐭𝐨𝐬𝐡𝐢 𝐁𝐨𝐭◈'
-global.author = '⩇⃟🔋 𝑴𝒂𝒅𝒆 𝒃𝒚 𝑺𝒉𝒂𝒅𝒐𝒘𝒄𝒐𝒓𝒆 ⩇⃟⚡'
+global.author = 'ℬ𝓨 𝓨𝓸 𝓢𝓸𝔂 𝓨𝓸'
 global.dev = '☘️ ミ💨 》Tʜᴇ Sʜᴀᴅᴏᴡ`ᴄᴏʀᴇ《 💥ミ 🌀'
-global.bot = '𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕'
+global.bot = '𝓖𝓪𝔀𝓻 𝓖𝓾𝓻𝓪 𝓤ℒ𝓣ℛ𝓐'
 global.club = '˜”*°•.˜”*°• Sya Team •°*”˜.•°*”˜'
 global.textbot = '(っ◔◡◔)っ ♥ Hecho por Yo Soy YO ♥'
 global.etiqueta = '@YO SOY YO'
