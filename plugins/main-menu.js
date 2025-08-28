@@ -31,10 +31,10 @@ let handler = async (m, { conn, args }) => {
       .toBuffer()
 */
     let videos = [
-        'https://files.catbox.moe/vwlhum.mp4',
-        'https://files.catbox.moe/tc1zxx.mp4',
-        'https://files.catbox.moe/o3ggg8.mp4',
-        'https://files.catbox.moe/uzi4do.mp4'
+        'https://qu.ax/tOlsB.mp4',
+        'https://qu.ax/GOETt.mp4',
+        'https://qu.ax/ugzCY.mp4',
+        'https://qu.ax/WQikc.mp4'
     ]
   
     let video = videos[Math.floor(Math.random() * videos.length)]
