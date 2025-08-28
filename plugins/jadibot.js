@@ -5,8 +5,8 @@ let handler = async (m, { conn, args, usedPrefix, command, isOwner }) => {
     return conn.reply(m.chat, `☁️ El comando *${command}* está desactivado temporalmente.`, m, fake);
 
   const channelRD = { 
-    id: '120363401008003732@newsletter', 
-    name: '⚽𐚁 ֹ ִ Rin Itoshi - Official ୧ ֹ ִ⚽ᩚ꤬ᰍ'
+    id: '120363399729727124@newsletter', 
+    name: 'Gawr Gura Ultra'
   };
 
   const connsActivas = global.conns.filter(conn =>
