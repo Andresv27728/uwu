@@ -31,9 +31,9 @@ let crm4 = "IF9hdXRvcmVzcG9uZGVyLmpzIGluZm8tYm90Lmpz"
 let drm1 = ""
 let drm2 = ""
 
-let rtx = `╭─〔 💠 𝗥𝗜𝗡 𝗜𝗧𝗢𝗦𝗛𝗜 - 𝗕𝗢𝗧 💠 〕─╮
+let rtx = `╭─〔  Gawr Gura Ultra - 𝗕𝗢𝗧  〕─╮
 │
-│ 🌀 𝐄𝐬𝐜𝐚𝐧𝐞𝐚 𝐞𝐥 𝐜ó𝐝𝐢𝐠𝐨 𝐐𝐑 𝐮𝐬𝐚𝐧𝐝𝐨 
+│  𝐄𝐬𝐜𝐚𝐧𝐞𝐚 𝐞𝐥 𝐜ó𝐝𝐢𝐠𝐨 𝐐𝐑 𝐮𝐬𝐚𝐧𝐝𝐨 
 │     𝐨𝐭𝐫𝐨 𝐜𝐞𝐥𝐮𝐥𝐚𝐫 𝐨 𝐮𝐧𝐚 𝐏𝐂 💻📱
 │     𝐲 𝐜𝐨𝐧𝐯𝐢é𝐫𝐭𝐞𝐭𝐞 𝐞𝐧 𝐮𝐧 𝐒𝐮𝐛-𝐁𝐨𝐭 ⚡
 │
@@ -162,7 +162,7 @@ if (qr && mcode) {
 let secret = await sock.requestPairingCode((m.sender.split`@`[0]))
 secret = secret.match(/.{1,4}/g)?.join("-")
 
-    let imgUrl = 'https://files.catbox.moe/4q363w.jpg'; 
+    let imgUrl = 'https://qu.ax/JCRMG.jpg'; 
     let txtCode = await conn.sendMessage(m.chat, {
       image: { url: imgUrl },
       caption: rtx2,
