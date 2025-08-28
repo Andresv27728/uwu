@@ -77,7 +77,7 @@ let handler = async (m, { conn, args }) => {
         externalAdReply: {
           title: 'GAWR GURA ULTRA | ʙʏ (っ◔◡◔)っ ♥ Yo Soy YO ♥',
           body: club,
-          thumbnailUrl: 'https://files.catbox.moe/q8b2br.jpg',
+          thumbnailUrl: 'https://files.catbox.moe/qifsi4.jpg',
           sourceUrl: redes,
           mediaType: 1,
           renderLargerThumbnail: false
@@ -766,7 +766,7 @@ ${readMore}
         externalAdReply: {
           title: packname,
           body: dev,
-          thumbnailUrl: 'https://files.catbox.moe/us0m4f.jpg',
+          thumbnailUrl: 'https://files.catbox.moe/ove7tq.jpg',
           sourceUrl: redes,
           mediaType: 1,
           renderLargerThumbnail: true
@@ -797,7 +797,7 @@ function clockString(ms) {
 }
 
 function ucapan() {
-  const time = moment.tz('America/Lima').format('HH')
+  const time = moment.tz('America/bogota').format('HH')
   let res = "🌷 ʙᴜᴇɴᴀs ɴᴏᴄʜᴇs 🌙"
   if (time >= 5 && time < 12) res = "🍂 ʙᴜᴇɴᴏs ᴅɪᴀs ☀️"
   else if (time >= 12 && time < 18) res = "🌱 ʙᴜᴇɴᴀs ᴛᴀʀᴅᴇs 🌤️"
