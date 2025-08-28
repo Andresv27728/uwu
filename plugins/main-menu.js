@@ -88,9 +88,9 @@ let handler = async (m, { conn, args }) => {
     await new Promise(resolve => setTimeout(resolve, 2000))
 
     let fechaObj = new Date()
-    let hora = new Date().toLocaleTimeString('es-PE', { timeZone: 'America/Lima' })
-    let fecha = fechaObj.toLocaleDateString('es-PE', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/Lima' })
-    let dia = fechaObj.toLocaleDateString('es-PE', { weekday: 'long', timeZone: 'America/Lima' })
+    let hora = new Date().toLocaleTimeString('es-PE', { timeZone: 'America/bogota' })
+    let fecha = fechaObj.toLocaleDateString('es-PE', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/bogota' })
+    let dia = fechaObj.toLocaleDateString('es-PE', { weekday: 'long', timeZone: 'America/bogota' })
 
 
     let readMore = String.fromCharCode(8206).repeat(4001)
@@ -121,7 +121,7 @@ ${readMore}
 ${readMore}
    \`[ 𝗜 𝗡 𝗙 𝗢 - 𝗙 𝗘 𝗖 𝗛 𝗔 ]\`
   ﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊
-> ✧⚞ ⚡ ʜᴏʀᴀ ᴘᴇʀᴜ: *${hora}*
+> ✧⚞ ⚡ ʜᴏʀᴀ Colombia: *${hora}*
 > ✧⚞ 🍩 ғᴇᴄʜᴀ: *${fecha}*
 > ✧⚞ ☘️ ᴅɪᴀ: *${dia}*
 ──────────────────────
