@@ -40,9 +40,9 @@ let handler = async (m, { conn, args }) => {
     let video = videos[Math.floor(Math.random() * videos.length)]
 
     const imgRandom = [
-      "https://iili.io/FKVDVAN.jpg",
-      "https://iili.io/FKVbUrJ.jpg"
-    ].getRandom?.() || "https://iili.io/FKVDVAN.jpg"
+      "https://files.catbox.moe/cwc3s7.jpg",
+      "https://files.catbox.moe/f6vksl.jpg"
+    ].getRandom?.() || "https://files.catbox.moe/e2n2sq.jpg"
 
     const text = [
    "[̲̲̅̅A̲̲̅̅c̲̲̅̅á̲̲̅̅ ̲̲̅̅E̲̲̅̅s̲̲̅̅t̲̲̅̅a̲̲̅̅ ̲̲̅̅e̲̲̅̅l̲̲̅̅ ̲̲̅̅M̲̲̅̅e̲̲̅̅n̲̲̅̅ú̲̲̅̅ ̲̲̅̅]\n[̲̲̅̅A̲̲̅̅c̲̲̅̅á̲̲̅̅ ̲̲̅̅E̲̲̅̅s̲̲̅̅t̲̲̅̅a̲̲̅̅ ̲̲̅̅e̲̲̅̅l̲̲̅̅ ̲̲̅̅M̲̲̅̅e̲̲̅̅n̲̲̅̅ú̲̲̅̅ ̲̲̅̅]",
