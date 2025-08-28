@@ -40,7 +40,7 @@ let handler = async (m, { conn, args }) => {
     let video = videos[Math.floor(Math.random() * videos.length)]
 
     const imgRandom = [
-      "https://files.catbox.moe/cwc3s7.jpg",
+      "https://files.catbox.moe/v9qsok.jpg",
       "https://files.catbox.moe/f6vksl.jpg"
     ].getRandom?.() || "https://files.catbox.moe/e2n2sq.jpg"
 
